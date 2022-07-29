@@ -25,6 +25,7 @@ html { font-family: 'Inter', sans-serif; }
 .page-header img {
   height: 2em;
   width: 2em;
+  padding-right: 5px;
 }
 
 .helper-text-field {
